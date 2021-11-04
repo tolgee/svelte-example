@@ -1,2 +1,2 @@
-# svelte-example
-Example application of Tolgee Svelte integration 
+# Tolgee Svelte Example App
+
