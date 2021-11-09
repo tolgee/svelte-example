@@ -1,8 +1,8 @@
 <script>
-  import { T, useTranslate } from "@tolgee/svelte";
+  import { T, getTranslate } from "@tolgee/svelte";
   import Navbar from "../../component/Navbar.svelte";
 
-  const t = useTranslate();
+  const t = getTranslate();
 </script>
 
 <main class="translation-methods">

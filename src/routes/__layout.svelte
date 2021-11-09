@@ -17,7 +17,8 @@
       cs: csLang,
       de: deLang,
       fr: frLang
-    }
+    },
+    availableLanguages: ['en', 'de', 'cs', 'fr']
   } as TolgeeConfig;
 </script>
 
