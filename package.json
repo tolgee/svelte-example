@@ -19,7 +19,7 @@
     "@tolgee/core": "^2.8.1",
     "@tolgee/svelte": "^2.8.1",
     "@tolgee/ui": "^2.8.1",
-    "@typescript-eslint/eslint-plugin": "^5.6.0",
+    "@typescript-eslint/eslint-plugin": "^5.7.0",
     "@typescript-eslint/parser": "^5.6.0",
     "eslint": "^8.4.1",
     "eslint-config-prettier": "^8.3.0",
@@ -29,7 +29,7 @@
     "serve": "^12.0.1",
     "svelte": "^3.42.6",
     "svelte-check": "^2.2.10",
-    "svelte-preprocess": "^4.9.4",
+    "svelte-preprocess": "^4.10.0",
     "tslib": "^2.3.1",
     "typescript": "^4.5.3"
   },
