@@ -1,5 +1,15 @@
 {
-	"singleQuote": true,
-	"trailingComma": "none",
-	"printWidth": 100
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "pluginSearchDirs": [
+    "."
+  ],
+  "overrides": [
+    {
+      "files": "*.svelte",
+      "options": {
+        "parser": "svelte"
+      }
+    }
+  ]
 }
