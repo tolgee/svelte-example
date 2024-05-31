@@ -1,3 +1,4 @@
+> This repo is just a dummy. Submit issues [in monorepo](https://github.com/tolgee/tolgee-js) or [check the source code here](https://github.com/tolgee/tolgee-js/tree/main/testapps/svelte).
 # Example application of using Svelte with Tolgee
 
 [<img src="https://raw.githubusercontent.com/tolgee/documentation/main/tolgee_logo_text.svg" alt="Tolgee" width="100" />](https://tolgee.io)
